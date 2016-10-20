@@ -17,6 +17,7 @@ github_username: errinlarsen
 # Build settings
 theme: minima
 markdown: kramdown
+exclude: [vendor]
 
 # Example:
 #

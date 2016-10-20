@@ -1,17 +1,27 @@
 # Site settings
-# title: An awesome title!
-# email: your-email@domain.com
+title: Errin Larsen
+
 description: > # this means to ignore newlines until "baseurl:"
   Errin's landing page.
-# baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# the subpath of your site, e.g. /blog/
+# baseurl: ""
+
+# the base hostname & protocol for your site
+url: "https://errinlarsen.github.io"
+
+# email: your-email@domain.com
 twitter_username: irk3n
 github_username: errinlarsen
 
 # Build settings
+theme: minima
 markdown: kramdown
 
-# [ahawkins _config.yml](https://github.com/ahawkins/hawkins.io)
+# Example:
+#
+# - from: [ahawkins _config.yml](https://github.com/ahawkins/hawkins.io)
+#
 # permalink: /:year/:month/:title
 # markdown: redcarpet
 # redcarpet:

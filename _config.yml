@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Errin Larsen"
 description              : "An amazing website."
 
-url                      : "https://errinlarsen.github.io"  # the base hostname\
+url                      : "https://errinlarsen.com"  # the base hostname\
                            # & protocol for your site\
                            # - e.g. "https://mmistakes.github.io":
 # baseurl                  : # the subpath of your site, e.g. "/blog"
